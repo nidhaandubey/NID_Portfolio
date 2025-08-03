@@ -62,7 +62,30 @@ A passionate computer science student with a strong foundation in data structure
 
         <div className="bg-gray-800 rounded-lg p-6 shadow-md">
           <h3 className="text-xl font-semibold">LinkedIN Scraper Tool</h3>
+          <ul className="list-disc list-inside mt-2 space-y-2">
+            <li>Built a powerful web scraper using Python for dynamic/static web content extraction and Scraped complex fields like “Overall
+Experience” by combining data from various DOM sections programmatically.</li>
+            <li>Handled pagination, AJAX content, and implemented retry logic with request throttling for stability and efficiency.</li>
+            
+          </ul>
           
+          </div>
+          <div className="bg-gray-800 rounded-lg p-6 shadow-md">
+          <h3 className="text-xl font-semibold">Operating System Scheduling Algorithms</h3>
+          <ul className="list-disc list-inside mt-2 space-y-2">
+            <li>Designed and implemented CPU scheduling algorithms using Object-Oriented Programming principles in C++.</li>
+            <li>Implemented FCFS, SJF, SRTF, HRRN, Round-Robin, and Priority Scheduling (Preemptive/Non-Preemptive).</li>
+            <li>Analyzed key metrics such as turnaround time, waiting time, and response time to evaluate algorithm efficiency.</li>
+          </ul>
+          
+          </div>
+          <div className="bg-gray-800 rounded-lg p-6 shadow-md">
+          <h3 className="text-xl font-semibold">Responsive News Website</h3>
+          <ul className="list-disc list-inside mt-2 space-y-2">
+            <li>Engineered a responsive news website using JavaScript, React.js, Node.js, and Bootstrap, employing RESTful API integration.</li>
+            <li>Enhanced user experience with React.js, applying state management and hooks for seamless functionality.</li>
+            <li>Integrated a third-party News API for real-time updates and streamlined news categorization.</li>
+          </ul>
           
           </div>
         </section>
