@@ -46,10 +46,10 @@ A passionate computer science student with a strong foundation in data structure
         </div>
         <div className="bg-gray-800 rounded-lg p-6 shadow-md">
           <h3 className="text-xl font-semibold">Growth Intern @ Fact-App</h3>
-          <p className="text-sm text-gray-400">8st June 2023 – 6st July 2023 </p>
+          <p className="text-sm text-gray-400">8th June 2023 – 6th July 2023 </p>
           <ul className="list-disc list-inside mt-2 space-y-2">
-            <li>Implemented and debugged frontend components using JavaScript and BootStrap, resulting in improved UI responsiveness.</li>
-            <li>Participated in Agile development cycles, including sprint planning and reviews, and contributing to platform optimization.</li>
+            <li>Implemented and debugged frontend components using JavaScript and Bootstrap, resulting in improved UI responsiveness.</li>
+            <li>Participated in Agile development cycles, including sprint planning and reviews, while contributing to platform optimization.</li>
             
           </ul>
           
@@ -61,7 +61,7 @@ A passionate computer science student with a strong foundation in data structure
         <h2 className="text-2xl font-semibold text-center">Projects</h2>
 
         <div className="bg-gray-800 rounded-lg p-6 shadow-md">
-          <h3 className="text-xl font-semibold">LinkedIN Scraper Tool</h3>
+          <h3 className="text-xl font-semibold">LinkedIn Scraper Tool</h3>
           <ul className="list-disc list-inside mt-2 space-y-2">
             <li>Built a powerful web scraper using Python for dynamic/static web content extraction and Scraped complex fields like “Overall
 Experience” by combining data from various DOM sections programmatically.</li>
@@ -108,7 +108,7 @@ Experience” by combining data from various DOM sections programmatically.</li>
       {/* Education */}
       <section className="max-w-3xl mx-auto text-center">
         <h2 className="text-2xl font-semibold">Education</h2>
-        <p className="mt-2">B.Tech in Computer Science and Engineering – Indian Institute Of Information Technology(IIIT),Sonepat  (2022–2026) </p>
+        <p className="mt-2">B.Tech in Computer Science and Engineering – Indian Institute of Information Technology (IIIT), Sonepat  (2022–2026) </p>
       </section>
 
       {/* Footer */}
